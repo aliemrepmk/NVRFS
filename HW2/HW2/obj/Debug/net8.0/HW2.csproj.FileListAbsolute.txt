@@ -1,0 +1,15 @@
+D:\Acunmedya .NET\HW2\HW2\bin\Debug\net8.0\HW2.exe
+D:\Acunmedya .NET\HW2\HW2\bin\Debug\net8.0\HW2.deps.json
+D:\Acunmedya .NET\HW2\HW2\bin\Debug\net8.0\HW2.runtimeconfig.json
+D:\Acunmedya .NET\HW2\HW2\bin\Debug\net8.0\HW2.dll
+D:\Acunmedya .NET\HW2\HW2\bin\Debug\net8.0\HW2.pdb
+D:\Acunmedya .NET\HW2\HW2\obj\Debug\net8.0\HW2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Acunmedya .NET\HW2\HW2\obj\Debug\net8.0\HW2.AssemblyInfoInputs.cache
+D:\Acunmedya .NET\HW2\HW2\obj\Debug\net8.0\HW2.AssemblyInfo.cs
+D:\Acunmedya .NET\HW2\HW2\obj\Debug\net8.0\HW2.csproj.CoreCompileInputs.cache
+D:\Acunmedya .NET\HW2\HW2\obj\Debug\net8.0\HW2.sourcelink.json
+D:\Acunmedya .NET\HW2\HW2\obj\Debug\net8.0\HW2.dll
+D:\Acunmedya .NET\HW2\HW2\obj\Debug\net8.0\refint\HW2.dll
+D:\Acunmedya .NET\HW2\HW2\obj\Debug\net8.0\HW2.pdb
+D:\Acunmedya .NET\HW2\HW2\obj\Debug\net8.0\HW2.genruntimeconfig.cache
+D:\Acunmedya .NET\HW2\HW2\obj\Debug\net8.0\ref\HW2.dll
