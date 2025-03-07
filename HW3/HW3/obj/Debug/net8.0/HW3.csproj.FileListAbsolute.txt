@@ -1,0 +1,15 @@
+D:\Acunmedya .NET\HW3\HW3\bin\Debug\net8.0\HW3.exe
+D:\Acunmedya .NET\HW3\HW3\bin\Debug\net8.0\HW3.deps.json
+D:\Acunmedya .NET\HW3\HW3\bin\Debug\net8.0\HW3.runtimeconfig.json
+D:\Acunmedya .NET\HW3\HW3\bin\Debug\net8.0\HW3.dll
+D:\Acunmedya .NET\HW3\HW3\bin\Debug\net8.0\HW3.pdb
+D:\Acunmedya .NET\HW3\HW3\obj\Debug\net8.0\HW3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Acunmedya .NET\HW3\HW3\obj\Debug\net8.0\HW3.AssemblyInfoInputs.cache
+D:\Acunmedya .NET\HW3\HW3\obj\Debug\net8.0\HW3.AssemblyInfo.cs
+D:\Acunmedya .NET\HW3\HW3\obj\Debug\net8.0\HW3.csproj.CoreCompileInputs.cache
+D:\Acunmedya .NET\HW3\HW3\obj\Debug\net8.0\HW3.sourcelink.json
+D:\Acunmedya .NET\HW3\HW3\obj\Debug\net8.0\HW3.dll
+D:\Acunmedya .NET\HW3\HW3\obj\Debug\net8.0\refint\HW3.dll
+D:\Acunmedya .NET\HW3\HW3\obj\Debug\net8.0\HW3.pdb
+D:\Acunmedya .NET\HW3\HW3\obj\Debug\net8.0\HW3.genruntimeconfig.cache
+D:\Acunmedya .NET\HW3\HW3\obj\Debug\net8.0\ref\HW3.dll

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Acunmedya .NET\\HW3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33499788-75F9-47FB-8F90-3378FD178B26}|HW3\\HW3.csproj|d:\\acunmedya .net\\hw3\\hw3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33499788-75F9-47FB-8F90-3378FD178B26}|HW3\\HW3.csproj|solutionrelative:hw3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33499788-75F9-47FB-8F90-3378FD178B26}|HW3\\HW3.csproj|d:\\acunmedya .net\\hw3\\hw3\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33499788-75F9-47FB-8F90-3378FD178B26}|HW3\\HW3.csproj|solutionrelative:hw3\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33499788-75F9-47FB-8F90-3378FD178B26}|HW3\\HW3.csproj|d:\\acunmedya .net\\hw3\\hw3\\checkingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33499788-75F9-47FB-8F90-3378FD178B26}|HW3\\HW3.csproj|solutionrelative:hw3\\checkingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33499788-75F9-47FB-8F90-3378FD178B26}|HW3\\HW3.csproj|d:\\acunmedya .net\\hw3\\hw3\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33499788-75F9-47FB-8F90-3378FD178B26}|HW3\\HW3.csproj|solutionrelative:hw3\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CheckingAccount.cs",
+              "DocumentMoniker": "D:\\Acunmedya .NET\\HW3\\HW3\\CheckingAccount.cs",
+              "RelativeDocumentMoniker": "HW3\\CheckingAccount.cs",
+              "ToolTip": "D:\\Acunmedya .NET\\HW3\\HW3\\CheckingAccount.cs",
+              "RelativeToolTip": "HW3\\CheckingAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T13:36:13.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "D:\\Acunmedya .NET\\HW3\\HW3\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "HW3\\SavingsAccount.cs",
+              "ToolTip": "D:\\Acunmedya .NET\\HW3\\HW3\\SavingsAccount.cs",
+              "RelativeToolTip": "HW3\\SavingsAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T13:34:40.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "D:\\Acunmedya .NET\\HW3\\HW3\\BankAccount.cs",
+              "RelativeDocumentMoniker": "HW3\\BankAccount.cs",
+              "ToolTip": "D:\\Acunmedya .NET\\HW3\\HW3\\BankAccount.cs",
+              "RelativeToolTip": "HW3\\BankAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T13:31:50.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Acunmedya .NET\\HW3\\HW3\\Program.cs",
+              "RelativeDocumentMoniker": "HW3\\Program.cs",
+              "ToolTip": "D:\\Acunmedya .NET\\HW3\\HW3\\Program.cs",
+              "RelativeToolTip": "HW3\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAADYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T13:09:11.333Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
