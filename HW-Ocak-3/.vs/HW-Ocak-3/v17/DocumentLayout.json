@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Acunmedya .NET\\HW-Ocak-3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9ECA5F91-F1E9-4D6D-A4D8-D016A79C5286}|HW-Ocak-3\\HW-Ocak-3.csproj|d:\\acunmedya .net\\hw-ocak-3\\hw-ocak-3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ECA5F91-F1E9-4D6D-A4D8-D016A79C5286}|HW-Ocak-3\\HW-Ocak-3.csproj|solutionrelative:hw-ocak-3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Acunmedya .NET\\HW-Ocak-3\\HW-Ocak-3\\Program.cs",
+              "RelativeDocumentMoniker": "HW-Ocak-3\\Program.cs",
+              "ToolTip": "D:\\Acunmedya .NET\\HW-Ocak-3\\HW-Ocak-3\\Program.cs",
+              "RelativeToolTip": "HW-Ocak-3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T11:50:12.797Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
