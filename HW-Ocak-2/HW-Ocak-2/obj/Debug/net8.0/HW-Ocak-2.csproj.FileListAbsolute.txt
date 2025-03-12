@@ -1,0 +1,15 @@
+D:\Acunmedya .NET\HW-Ocak-2\HW-Ocak-2\bin\Debug\net8.0\HW-Ocak-2.exe
+D:\Acunmedya .NET\HW-Ocak-2\HW-Ocak-2\bin\Debug\net8.0\HW-Ocak-2.deps.json
+D:\Acunmedya .NET\HW-Ocak-2\HW-Ocak-2\bin\Debug\net8.0\HW-Ocak-2.runtimeconfig.json
+D:\Acunmedya .NET\HW-Ocak-2\HW-Ocak-2\bin\Debug\net8.0\HW-Ocak-2.dll
+D:\Acunmedya .NET\HW-Ocak-2\HW-Ocak-2\bin\Debug\net8.0\HW-Ocak-2.pdb
+D:\Acunmedya .NET\HW-Ocak-2\HW-Ocak-2\obj\Debug\net8.0\HW-Ocak-2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Acunmedya .NET\HW-Ocak-2\HW-Ocak-2\obj\Debug\net8.0\HW-Ocak-2.AssemblyInfoInputs.cache
+D:\Acunmedya .NET\HW-Ocak-2\HW-Ocak-2\obj\Debug\net8.0\HW-Ocak-2.AssemblyInfo.cs
+D:\Acunmedya .NET\HW-Ocak-2\HW-Ocak-2\obj\Debug\net8.0\HW-Ocak-2.csproj.CoreCompileInputs.cache
+D:\Acunmedya .NET\HW-Ocak-2\HW-Ocak-2\obj\Debug\net8.0\HW-Ocak-2.sourcelink.json
+D:\Acunmedya .NET\HW-Ocak-2\HW-Ocak-2\obj\Debug\net8.0\HW-Ocak-2.dll
+D:\Acunmedya .NET\HW-Ocak-2\HW-Ocak-2\obj\Debug\net8.0\refint\HW-Ocak-2.dll
+D:\Acunmedya .NET\HW-Ocak-2\HW-Ocak-2\obj\Debug\net8.0\HW-Ocak-2.pdb
+D:\Acunmedya .NET\HW-Ocak-2\HW-Ocak-2\obj\Debug\net8.0\HW-Ocak-2.genruntimeconfig.cache
+D:\Acunmedya .NET\HW-Ocak-2\HW-Ocak-2\obj\Debug\net8.0\ref\HW-Ocak-2.dll
