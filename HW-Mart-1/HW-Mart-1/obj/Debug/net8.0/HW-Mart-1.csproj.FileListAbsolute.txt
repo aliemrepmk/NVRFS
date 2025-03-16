@@ -1,0 +1,15 @@
+D:\Acunmedya .NET\HW-Mart-1\HW-Mart-1\bin\Debug\net8.0\HW-Mart-1.exe
+D:\Acunmedya .NET\HW-Mart-1\HW-Mart-1\bin\Debug\net8.0\HW-Mart-1.deps.json
+D:\Acunmedya .NET\HW-Mart-1\HW-Mart-1\bin\Debug\net8.0\HW-Mart-1.runtimeconfig.json
+D:\Acunmedya .NET\HW-Mart-1\HW-Mart-1\bin\Debug\net8.0\HW-Mart-1.dll
+D:\Acunmedya .NET\HW-Mart-1\HW-Mart-1\bin\Debug\net8.0\HW-Mart-1.pdb
+D:\Acunmedya .NET\HW-Mart-1\HW-Mart-1\obj\Debug\net8.0\HW-Mart-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Acunmedya .NET\HW-Mart-1\HW-Mart-1\obj\Debug\net8.0\HW-Mart-1.AssemblyInfoInputs.cache
+D:\Acunmedya .NET\HW-Mart-1\HW-Mart-1\obj\Debug\net8.0\HW-Mart-1.AssemblyInfo.cs
+D:\Acunmedya .NET\HW-Mart-1\HW-Mart-1\obj\Debug\net8.0\HW-Mart-1.csproj.CoreCompileInputs.cache
+D:\Acunmedya .NET\HW-Mart-1\HW-Mart-1\obj\Debug\net8.0\HW-Mart-1.sourcelink.json
+D:\Acunmedya .NET\HW-Mart-1\HW-Mart-1\obj\Debug\net8.0\HW-Mart-1.dll
+D:\Acunmedya .NET\HW-Mart-1\HW-Mart-1\obj\Debug\net8.0\refint\HW-Mart-1.dll
+D:\Acunmedya .NET\HW-Mart-1\HW-Mart-1\obj\Debug\net8.0\HW-Mart-1.pdb
+D:\Acunmedya .NET\HW-Mart-1\HW-Mart-1\obj\Debug\net8.0\HW-Mart-1.genruntimeconfig.cache
+D:\Acunmedya .NET\HW-Mart-1\HW-Mart-1\obj\Debug\net8.0\ref\HW-Mart-1.dll
